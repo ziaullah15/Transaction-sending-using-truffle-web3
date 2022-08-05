@@ -13,7 +13,7 @@ async function setName(_myName) {
 
     const web3 = new Web3(provider);
 
-    let contract = new web3.eth.contract(
+    let contract = new web3.eth.Contract(
         MyContract.abi,
         contractAdd,
         provider,
