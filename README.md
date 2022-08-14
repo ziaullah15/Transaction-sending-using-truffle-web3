@@ -1,4 +1,4 @@
-#Send and Get Transaction using web3.
+**#Send and Get Transaction using web3.
 
 #1. Setting up the environment
 
@@ -46,3 +46,4 @@ $ node getTx.js
 
 Tx is succesfully deployed.
 Your added Name is "Zia"
+**
